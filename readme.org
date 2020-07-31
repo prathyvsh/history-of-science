@@ -59,3 +59,8 @@
 
 ** Robert Laughlin
 *** A Different Universe: Reinventing Physics from the Bottom Down (2005)
+
+** Stephen Hawking
+
+*** [[https://web.archive.org/web/20180105061629/https://www.hawking.org.uk/godel-and-the-end-of-physics.html][Gödel and the End of Physics]]
+Alternate link: http://yclept.ucdavis.edu/course/215c.S17/TEX/GodelAndEndOfPhysics.pdf
