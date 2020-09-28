@@ -39,7 +39,7 @@ Resources:
 
 ** [[https://www.ruhr-universität-bochum.de/philosophy/mam/wtundwg/rational_mechanics_in_the_eighteenth_century.pdf][Rational Mechanics in the Eighteenth Century: On Structural Developments of a Mathematical Science]]
 
-** [[https://www.academia.edu/11598964/Rational_Mechanics_as_Enlightenment_Engineering_Leonhard_Euler_and_Interior_Ballistics][Rational Mechanics asEnlightenment Engineering:Leonhard Euler and Interior Ballistics]]
+** [[https://www.academia.edu/11598964/Rational_Mechanics_as_Enlightenment_Engineering_Leonhard_Euler_and_Interior_Ballistics][Rational Mechanics as Enlightenment Engineering: Leonhard Euler and Interior Ballistics]]
 
 * Reductionism
 
