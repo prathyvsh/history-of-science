@@ -1,87 +1,97 @@
 * History of Science
 
-** Prehistory
+* Prehistory
 
-** Antiquity
+* Antiquity
 
-** Classical Period
+* Classical Period
 
-** Plato
+* Plato
 
-** Aristotle
+* Aristotle
 
-** Medieval Period
+* Medieval Period
 
-** Renaissance
+* Renaissance
 
-** [[https://en.wikipedia.org/wiki/Magia_Naturalis][Magia Naturalis]]
+* [[https://en.wikipedia.org/wiki/Magia_Naturalis][Magia Naturalis]]
 
-** Baconian Method
+* Baconian Method
 
-** Francis Bacon
+* Francis Bacon
 
-*** [[https://en.wikipedia.org/wiki/Novum_Organum][Novum Organum (1620)]]
+** [[https://en.wikipedia.org/wiki/Novum_Organum][Novum Organum (1620)]]
 
-** Enlightenment
+* Enlightenment
 
-** Descartes
+* Descartes
 
-*** Corpuscularianism
-*** Vortex Theory
+** Corpuscularianism
+** Vortex Theory
 
-** Newton
+* Newton
 
-** Reductionism
+* Rational Mechanics
 
-** La Place
+Resources:
 
-*** LaPlace’s Demon
+** [[https://www.semanticscholar.org/paper/The-ferment-of-knowledge%3A-Mathematics-and-rational-Bos/8fe80db5433a2899a8dd7cfcffec85236ee1017c][Mathematics and Rational Mechanics]]
 
-** La Grange
+** [[https://www.ruhr-universität-bochum.de/philosophy/mam/wtundwg/rational_mechanics_in_the_eighteenth_century.pdf][Rational Mechanics in the Eighteenth Century: On Structural Developments of a Mathematical Science]]
 
-** Quantum Mechanics
+** [[https://www.academia.edu/11598964/Rational_Mechanics_as_Enlightenment_Engineering_Leonhard_Euler_and_Interior_Ballistics][Rational Mechanics asEnlightenment Engineering:Leonhard Euler and Interior Ballistics]]
 
-** Lord Kelvin
+* Reductionism
 
-** J. J. Thompson
+* La Place
 
-** Hilbert
+** LaPlace’s Demon
+
+* La Grange
+
+* Quantum Mechanics
+
+* Lord Kelvin
+
+* J. J. Thompson
+
+* Hilbert
 
 ** Entscheidungsproblem
 
-*** Hilbert Space
+** Hilbert Space
 
-*** Wave Function
+** Wave Function
 
 ** Erwin Schrödinger
 
-** Copenhagen Interpretation
+* Copenhagen Interpretation
 
-** Industrial Age
+* Industrial Age
 
-** Lakatos
+* Lakatos
 
-** Karl Popper
+* Karl Popper
 
-*** The Logic of Discovery
+** The Logic of Discovery
 
-** Falsficationism
+* Falsficationism
 
-** Thomas Kuhn
+* Thomas Kuhn
 
-** Pierre Duhem
+* Pierre Duhem
 
-** Space Age
+* Space Age
 
-** Information Age
+* Information Age
 
-** Philipp Anderson
-*** [[https://science.sciencemag.org/content/177/4047/393][More is Different (1972)]]
+* Philipp Anderson
+** [[https://science.sciencemag.org/content/177/4047/393][More is Different (1972)]]
 
-** Robert Laughlin
-*** A Different Universe: Reinventing Physics from the Bottom Down (2005)
+* Robert Laughlin
+** A Different Universe: Reinventing Physics from the Bottom Down (2005)
 
-** Stephen Hawking
+* Stephen Hawking
 
 *** [[https://web.archive.org/web/20180105061629/https://www.hawking.org.uk/godel-and-the-end-of-physics.html][Gödel and the End of Physics]]
 Alternate link: http://yclept.ucdavis.edu/course/215c.S17/TEX/GodelAndEndOfPhysics.pdf
